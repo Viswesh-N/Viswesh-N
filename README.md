@@ -26,10 +26,10 @@ I'm open to collaborate on Robotics and Machine learning projects and seek to co
 
 
 
-#### 📈 My GitHub Stats:
+<!-- #### 📈 My GitHub Stats:
 
 <p>
   <img width="766em" src="https://github-profile-trophy.vercel.app/?username=Viswesh-N&theme=discord&no-frame=true&row=1&column=7" /> <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viswesh-N&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswesh-N&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+</p> -->
