@@ -3,27 +3,29 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viswesh-n-37b01721a/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/viswesh.n)
 [![Email Badge](https://img.shields.io/badge/-Email-DB4437?style=flat-square&logo=Gmail&logoColor=white)](mailto:nvichu1001@gmail.com)
-
-<!--
+<!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about 
+- 📫 How to reach me: Feel free to reach out on any of the above socials
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
-I'm a second-year undergrad at IIT Kharagpur who loves programming.
+I'm a second-year undergrad at IIT Kharagpur , pursing my Bachelors from the Department of Electrical Engineering.
 
-I'm mostly a generalist at the moment, with maximum experience in backend development with Django. I've written several backend systems such as the one for Thought Processors ([Static Website](https://thoughtprocessors.netlify.app/)) and [StaightZero](https://straightzero.in). At StraightZero, I co-developed an authentication system, a payment system using the PayUMoney API, and a live test-taking platform in a team of just 2.
+I'm a robotics enthusiast and have worked on several projects in the domain of robotics and artifical intelligence, including the University Rover Challenge 2022, Indy Autonomous Challenge 2022 and the Machine Learning Reproducibility Challenge 2022.
 
-Aside from that, I've worked on various other projects in Python (API Consumers, Image Processing, Machine Learning, Web Scraping and other short scripts), some simulations in JS using p5.js, and have some competitive programming experience.
+I'm currently a part of the Autonomous Ground Vehicle (AGV) Research Group where I'm an undergraduate researcher working on predicting future trajectories for autonomous vehicles using Deep Learning techniques for autonomous vehicles as a part of the Trajectory Prediction team. I have also worked on control systems and a little bit of SLAM, and am actively exploring Reinforcement Learning and its applications in control theory and path planning in the context of robotics. 
 
-I'm currently a part of the Aerial Robotics Kharagpur (ARK) Research Group where I'm an undergraduate researcher working with Machine Learning and Computer Vision as part of the Perception team. I'm also a part of the Kharagpur Open Source Society (KOSS) and learning about various components of software development like architecture and the internals of certain programming languages. I've recently been exploring Deep Learning as well.
+I've also worked at Drive Analytics, wherein I built a customized basketball tracker using Computer Vision and Deep Learning.
 
-I'm open to collaborate on machine learning projects (academic or product-based) or web applications and I'm interested in internship opportunities for the summer of 2022.
+I'm open to collaborate on Robotics and Machine learning projects and seek to contribute to the field of robotics. 
+
+
+
+
 
 #### 📈 My GitHub Stats:
 
