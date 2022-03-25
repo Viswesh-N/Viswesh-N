@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
-I'm a second-year undergrad at IIT Kharagpur , pursing my Bachelors from the Department of Electrical Engineering.
+I'm a second-year undergrad at IIT Kharagpur , pursuing my Bachelors from the Department of Electrical Engineering.
 
 I'm a robotics enthusiast and have worked on several projects in the domain of robotics and artifical intelligence, including the University Rover Challenge 2022, Indy Autonomous Challenge 2022 and the Machine Learning Reproducibility Challenge 2022.
 
