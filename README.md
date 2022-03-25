@@ -8,10 +8,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about 
-- 📫 How to reach me: Feel free to reach out on any of the above socials
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+
 
 I'm a second-year undergrad at IIT Kharagpur , pursuing my Bachelors from the Department of Electrical Engineering.
 
@@ -23,14 +20,16 @@ I've also worked at Drive Analytics, wherein I built a customized basketball tra
 
 I'm open to collaborate on Robotics and Machine learning projects and seek to contribute to the field of robotics. 
 
+- 📫 How to reach me: Feel free to reach out on any of the above socials
+- 😄 Pronouns: He/Him
 
 
 
 
-#### 📈 My GitHub Stats:
+<!-- #### 📈 My GitHub Stats:
 
 <p>
   <img width="766em" src="https://github-profile-trophy.vercel.app/?username=Viswesh-N&theme=discord&no-frame=true&row=1&column=7" /> <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viswesh-N&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswesh-N&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+</p> -->
