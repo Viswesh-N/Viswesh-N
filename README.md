@@ -14,7 +14,7 @@ I'm a second-year undergrad at IIT Kharagpur , pursuing my Bachelors from the De
 
 I'm a robotics enthusiast and have worked on several projects in the domain of robotics and artifical intelligence, including the University Rover Challenge 2022, Indy Autonomous Challenge 2022 and the Machine Learning Reproducibility Challenge 2022.
 
-I'm currently a part of the Autonomous Ground Vehicle (AGV) Research Group where I'm an undergraduate researcher working on predicting future trajectories for autonomous vehicles using Deep Learning techniques for autonomous vehicles as a part of the Trajectory Prediction team. I have also worked on control systems and a little bit of SLAM, and am actively exploring Reinforcement Learning and its applications in control theory and path planning in the context of robotics. 
+I'm currently a part of the Autonomous Ground Vehicle (AGV) Research Group where I'm an undergraduate researcher working on predicting future trajectories for autonomous vehicles using Deep Learning techniques as a part of the Trajectory Prediction team. I have also worked on control systems and a little bit of SLAM, and am actively exploring Reinforcement Learning and its applications in control theory and path planning in the context of robotics. 
 
 I've also worked at Drive Analytics, wherein I built a customized basketball tracker using Computer Vision and Deep Learning.
 
