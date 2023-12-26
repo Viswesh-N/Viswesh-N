@@ -10,11 +10,11 @@
 - 🤔 I’m looking for help with ... -->
 
 
-I'm a third-year undergrad at IIT Kharagpur , pursuing my Bachelors from the Department of Electrical Engineering.
+I am a final year at IIT Kharagpur, pursuing my B.Tech in Electrical Engineering . I am currently working with Prof. Igor Gilitschenski on developing learning-based state estimation pipelines for the navigation of autonomous vehicles in unforseen environments, at theToronto Intelligent Systems Lab at UofT. You can find my past experiences at Experiences
 
-I'm a robotics enthusiast and have worked on several projects in the domain of robotics and artificial intelligence, including the University Rover Challenge 2022, Indy Autonomous Challenge 2022 and the Machine Learning Reproducibility Challenge 2022.
+My research interests lie in multi-agent robotics, state estimation, and I am eager to apply reinforcement learning techniques to solve autonomous driving and other robotic tasks.
 
-I'm currently a part of the Autonomous Ground Vehicle (AGV) Research Group where I'm an undergraduate researcher working on predicting future trajectories for autonomous vehicles using Deep Learning techniques as a part of the Trajectory Prediction team. I have also worked on control systems and a little bit of SLAM, and am actively exploring Reinforcement Learning and its applications in control theory and path planning in the context of robotics. 
+In my free time, I love playing football, hiking and occasionally play the keyboard. I've also been getting into Basketball lately so feel free to bring it up in a conversation :]
 
 I've also worked at Drive Analytics, wherein I built a customized basketball tracker using Computer Vision and Deep Learning.
 
