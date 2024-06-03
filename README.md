@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ... -->
 
 
-I am a final year at IIT Kharagpur, pursuing my B.Tech in Electrical Engineering . I am currently working with Prof. Igor Gilitschenski on developing learning-based state estimation pipelines for the navigation of autonomous vehicles in unforseen environments, at theToronto Intelligent Systems Lab at UofT. You can find my past experiences at Experiences
+I am a final year at IIT Kharagpur, pursuing my B.Tech in Electrical Engineering . I am currently working with Prof. Igor Gilitschenski on developing learning-based state estimation pipelines for the navigation of autonomous vehicles in unforseen environments, at theToronto Intelligent Systems Lab at UofT.
 
 My research interests lie in multi-agent robotics, state estimation, and I am eager to apply reinforcement learning techniques to solve autonomous driving and other robotic tasks.
 
