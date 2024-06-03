@@ -16,8 +16,6 @@ My research interests lie in multi-agent robotics, state estimation, and I am ea
 
 In my free time, I love playing football, hiking and occasionally play the keyboard. I've also been getting into Basketball lately so feel free to bring it up in a conversation :]
 
-I've also worked at Drive Analytics, wherein I built a customized basketball tracker using Computer Vision and Deep Learning.
-
 I'm open to collaborate on Robotics and Machine learning projects and seek to contribute to the field of robotics. 
 
 - 📫 How to reach me: Feel free to reach out on any of the above socials
