@@ -10,9 +10,7 @@
 - 🤔 I’m looking for help with ... -->
 
 
-I am a final year at IIT Kharagpur, pursuing my B.Tech in Electrical Engineering . I am currently working with Prof. Igor Gilitschenski on developing learning-based state estimation pipelines for the navigation of autonomous vehicles in unforseen environments, at theToronto Intelligent Systems Lab at UofT.
-
-My research interests lie in multi-agent robotics, state estimation, and I am eager to apply reinforcement learning techniques to solve autonomous driving and other robotic tasks.
+I am a first year Masters student at UC San Diego, where I'm pursuing Robotics. My research interests lie in reinforcement learning, and I'm exploring Robot Manipulation and RL guided vision methods for solving humanoid environments. 
 
 In my free time, I love playing football, hiking and occasionally play the keyboard. I've also been getting into Basketball lately so feel free to bring it up in a conversation :]
 
